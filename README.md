@@ -1,3 +1,5 @@
+![AI-JailBreak-RE cover](assets/cover.png)
+
 # 🔓🧠 AI-JailBreak-RE
 
 ## ❓ What is this?
@@ -262,6 +264,8 @@ AI-JailBreak-RE/
 ├── 📖 README.md            # 📘 this file (full template)
 ├── 🐳 Dockerfile           # container: python:3.12-slim
 ├── 🌱 conftest.py          # pytest path setup
+├── 🖼️ assets/
+│   └── 📄 cover.png        # cover art (2736×912) — upload step: binary, see note below
 └── 🧪 tests/
     └── 📄 test_main.py     # 12 tests: HOLD, taxonomy, detector, encoding, unicode, v1-vs-v2, drift, leak scan
 ```
