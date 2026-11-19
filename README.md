@@ -1,4 +1,4 @@
-![AI-JailBreak-RE cover](assets/cover.png)
+![AI-JailBreak-RE cover](HXHgOS9awAAehmT.jpg)
 
 # 🔓🧠 AI-JailBreak-RE
 
